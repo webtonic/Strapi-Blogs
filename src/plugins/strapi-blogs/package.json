@@ -1,0 +1,17 @@
+{
+    "name": "strapi-blogs",
+    "version": "1.0.0",
+    "description": "A custom plugin to create blogs collection type",
+    "strapi": {
+      "name": "my-plugin",
+      "displayName": "My Plugin",
+      "description": "A custom plugin to create blogs collection type"
+    },
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
